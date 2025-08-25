@@ -54,7 +54,45 @@
     }
     .section3{
         width: 100%;
-
+        height: 2200px;
+        padding: 0px 10px;
+        gap: 60px;
     }
-    
+    .item1{
+        width: 100%;
+    }
+    .section4{
+        width: 100%;
+        height: 2900px;
+        padding: 0px 10px;
+        gap: 0px;
+    }
+.section5{
+    width: 100%;
+
+}
+.section5-box1{
+    width: 100%;
+}
+    .box2-button{
+        padding: 10px 100px;
+    }
+    .section5-box2 h1{
+   padding: 20px 0px;
+ }
+ .section5-box2 img{
+    width: 50%;
+ }
+ .time-box{
+    margin-left: 30px;
+ }
+ .section5-box2{
+    height: 570px;
+ }
+ .section6{
+    top: 10px;
+ }
+ .hidden{
+    display: none;
+ }
 }
